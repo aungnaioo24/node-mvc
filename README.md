@@ -1,1 +1,1 @@
-# node-mvc
+# Express-Sequelize-MVC
